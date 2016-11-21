@@ -1,0 +1,41 @@
+header 
+				{background-color: grey;
+			 		width: 900px;
+			  		height:100px;
+			   		text-align:center;
+			    	padding-top:30px;
+			     	margin:10px auto
+			 	}
+
+			div
+				 {
+					width: 900px;
+	 				margin:10px auto
+				 }
+
+			aside
+				{
+					background-color: yellow;
+					height:300px;
+					text-align:center;
+					padding-top:30px;
+					width: 300px;
+					float:left
+				}
+			main
+				{
+					background-color: darkgrey;
+				 	height:300px;
+				  	text-align:center;
+				   	padding-top:30px
+				}
+
+			footer
+				{
+					background-color: pink;
+			 		width: 900px;
+			  		height:100px;
+			   		text-align:center;
+			    	padding-top:30px;
+			     	margin:10px auto
+				}
